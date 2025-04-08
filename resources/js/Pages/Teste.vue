@@ -1,7 +1,7 @@
 
 <template>
     <div class="card flex justify-center">
-        <Button type="button" label="Search" icon="pi pi-search" severity="info"/>
+        <Button class="w-full" type="button" label="Search" icon="pi pi-search" severity="info"/>
     </div>
 </template>
 
